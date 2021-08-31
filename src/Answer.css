@@ -1,24 +1,24 @@
-.yes {
-    border: 15px solid pink;
+.yes1 {
+    border: 15px solid rgb(156, 7, 32);
     border-radius: 5px;
     background-color: aliceblue;
     width: 63px;
     height: 48px;
     text-align: center;
     position: relative;
-    left: 380px;
-    top: 200px;
+    left: 327px;
+    top: 127px;
 }
-.no{
-    border: 15px solid pink;
+.no1{
+    border: 15px solid rgb(30, 53, 66);
     border-radius: 5px;
     background-color: aliceblue;
     width: 63px;
     height: 48px;
     text-align: center;
     position: relative;
-    left: 78px;
-    top: 54px;
+    left: 438px;
+    top: 127px;
 }
 
 .text{
@@ -54,6 +54,107 @@
     height: 58px;
     text-align: center;
     position: relative;
-    left: 522px;
-    top: 200px;
+    left: 309px;
+    top: 22px;
+}
+
+.move2{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: 259px;
+    top: 178px;
+}
+.yes2 {
+    border: 15px solid pink;
+    border-radius: 5px;
+    background-color: rgb(236, 202, 48);
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: 535px;
+    top: 27px;
+}
+.no2{
+    border: 15px solid pink;
+    border-radius: 5px;
+    background-color: rgb(15, 141, 57);
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: 474px;
+    top: 163px;
+}
+.question2{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: 561px;
+    top: 85px;
+}
+.question3{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: -468px;
+    top: 335px;
+}
+.yes3 {
+    border: 15px solid rgb(247, 129, 113);
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: -572px;
+    top: 283px;
+}
+.no3{
+    border: 15px solid rgb(90, 87, 86);
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: -635px;
+    top: 403px;
+}
+.move3{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: -254px;
+    top: 262px;
+}
+.move4{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: -602px;
+    top: 178px;
+
 }

@@ -70,9 +70,9 @@
     top: 178px;
 }
 .yes2 {
-    border: 15px solid pink;
+    border: 15px solid rgb(236, 202, 48);
     border-radius: 5px;
-    background-color: rgb(236, 202, 48);
+    background-color: aliceblue;
     width: 63px;
     height: 48px;
     text-align: center;
@@ -81,9 +81,9 @@
     top: 27px;
 }
 .no2{
-    border: 15px solid pink;
+    border: 15px solid rgb(15, 141, 57);
     border-radius: 5px;
-    background-color: rgb(15, 141, 57);
+    background-color:aliceblue ;
     width: 63px;
     height: 48px;
     text-align: center;

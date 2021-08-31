@@ -1,0 +1,59 @@
+.yes {
+    border: 15px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: 380px;
+    top: 200px;
+}
+.no{
+    border: 15px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 63px;
+    height: 48px;
+    text-align: center;
+    position: relative;
+    left: 78px;
+    top: 54px;
+}
+
+.text{
+    border: 20px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 73px;
+    height: 20px;
+    text-align: center;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+.none{
+    display:none;
+}
+.question1{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: 522px;
+    top: 55px;
+}
+.move{
+    border: 10px solid pink;
+    border-radius: 5px;
+    background-color: aliceblue;
+    width: 150px;
+    height: 58px;
+    text-align: center;
+    position: relative;
+    left: 522px;
+    top: 200px;
+}
